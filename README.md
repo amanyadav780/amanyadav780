@@ -1,4 +1,4 @@
---->Hi my name is Aman and I am a self taught programmer from the city of Chandigarh, India. 
+Hi my name is Aman and I am a self taught programmer from the city of Chandigarh, India. 
 My projects are up-to-date. All projects I do will be done using latest technologies and frameworks.
 
 <br/>
